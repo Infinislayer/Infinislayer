@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Infinislayer
 - 👀 I’m interested in anime and gaming (very boring I know)
 - 🌱 I’m currently learning RPA tools like UiPath and Blueprism, also looking to learn on Python and work on my Java.
-- 💞️ I’m looking to collaborate on anything I found interesting.
+- 💞️ I’m looking to collaborate on anything for now.
 - 📫 How to reach me: tbd
 
 <!---
